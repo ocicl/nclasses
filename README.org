@@ -1,0 +1,10 @@
+* nclasses
+
+A `define-class` macro for less boilerplate
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/atlas-engineer/nclasses.git   |
+| commit  | {"messa  |
+| systems | nclasses |
+|---------+-------------------------------------------|
+

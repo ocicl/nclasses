@@ -4,6 +4,6 @@ A `define-class` macro for less boilerplate
 
 |---------+----------------------------------------------------|
 | source  | git:https://github.com/atlas-engineer/nclasses.git |
-| commit  | ad74d75                                            |
+| commit  | 6b9a37a                                            |
 | systems | nclasses                                           |
 |---------+----------------------------------------------------|

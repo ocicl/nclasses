@@ -7,3 +7,4 @@ A `define-class` macro for less boilerplate
 | commit  | ad74d75                                            |
 | systems | nclasses                                           |
 |---------+----------------------------------------------------|
+ 
